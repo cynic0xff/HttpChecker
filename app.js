@@ -1,4 +1,4 @@
 const httpcheck = require('./httpchecker');
 
-var check = new httpcheck('http://location', 'http');
+var check = new httpcheck('https://google.com', 'http');
 check.http();

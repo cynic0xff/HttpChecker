@@ -2,7 +2,7 @@
     Checks a web page for insecure content.  This will check outgoing links also
     not just insecure images so outgoing links will appear as false positives.
 
-    Copyright (C) 2018  Scott Wren
+    2018  Scott Wren
     
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
